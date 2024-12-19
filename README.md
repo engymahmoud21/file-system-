@@ -1,12 +1,12 @@
 # file-system-
 
-##Create a Python program to manage a text file. The program should provide the following functionality:
+## Create a Python program to manage a text file. The program should provide the following functionality:
 
-##Acceptance Criteria:
+## Acceptance Criteria:
 
-##Menu System:
+## Menu System:
 
-###Display a menu with the following options:
+### Display a menu with the following options:
 
 Create a File: Create a new text file and write content to it.
 
@@ -18,7 +18,7 @@ Delete File: Delete the text file.
 
 Exit: Exit the program.
 
-###File Storage:
+### File Storage:
 
 Operate on a single text file named data.txt.
 
